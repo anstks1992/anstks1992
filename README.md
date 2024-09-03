@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! Welcomte My GitHub 👋
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -25,9 +25,9 @@
 </div>
 
 <h3 align="center">📫 Contact 📫</h3>
+<div align="center">
   <a href="mailto:anstks1992329@gmail.com">
     <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/anstks1992329@gmail.com-324237?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-  <div align="center">
 </div>
