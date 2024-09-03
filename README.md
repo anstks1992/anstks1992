@@ -2,8 +2,7 @@
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-
-  <img src="https://img.shields.io/badge/vue-F7DF1E.svg?style=for-the-badge&logo=vue&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/vue-F7DF1E.svg?style=for-the-badge&logo=vue&logoColor=#4FC08D" />&nbsp
   <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/Html/Css/Scss-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
 </div>
