@@ -12,16 +12,16 @@
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/React-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Next-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Next-3578E5?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp
 </div>
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/GitLab-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/GitLab-1daabb.svg?style=for-the-badge&logo=gitlab&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/Slack-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
+  <img src="https://img.shields.io/badge/Slack-DB7093?style=for-the-badge&logo=slack&logoColor=ffd35b" />&nbsp
 </div>
 
 <h3 align="center">📫 Contact 📫</h3>
