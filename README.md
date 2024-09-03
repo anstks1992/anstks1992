@@ -25,6 +25,10 @@
 </div>
 
 <h3 align="center">📫 Contact 📫</h3>
+<a href="mailto:anstks1992329@gmail.com">
+    <img
+      src="https://img.shields.io/badge/anstks1992329@gmail.com-D42579?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
 <div align="center">
 
   <a href="mailto:anstks1992329@gmail.com">
