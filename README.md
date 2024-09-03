@@ -2,7 +2,8 @@
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%231BD6AC&icon=vue-dot-js.svg&icon_color=%23E7E7E7&title=Vue&edge_flat=false"/>
+
+  <img src="https://img.shields.io/badge/vue-F7DF1E.svg?style=for-the-badge&logo=vue&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/Html/Css/Scss-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
 </div>
